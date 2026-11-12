@@ -1,8 +1,8 @@
 // Todo o conteúdo textual da página fica centralizado aqui.
 
-// TODO: trocar pelo número real de WhatsApp da Stephanie (formato 55 + DDD + número).
+// Número de WhatsApp da Stephanie (formato 55 + DDD + número).
 export const WHATSAPP_URL =
-  'https://wa.me/5561999999999?text=Ol%C3%A1%2C%20Stephanie!%20Quero%20conversar%20sobre%20o%20sono%20do%20meu%20beb%C3%AA.';
+  'https://wa.me/556182332645?text=Ol%C3%A1%2C%20Stephanie!%20Quero%20conversar%20sobre%20o%20sono%20do%20meu%20beb%C3%AA.';
 
 export interface NavLink {
   label: string;
